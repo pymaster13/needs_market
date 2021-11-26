@@ -1,0 +1,5 @@
+**/venv_needs_market
+**/__pycache__
+**/migrations
+db.sqlite3
+dump.rdb
