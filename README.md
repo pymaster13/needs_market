@@ -4,28 +4,27 @@ This project is a backend of online food store (2020).
 A developers team (4 people) used Django Rest Framework (2 people, including me) on backend side and React (2 people) on frontend side.
 
 ## Getting Started
+Python version: 3.7.5
 
 Clone project:
 ```
 mkdir project && cd project
-git clone https://github.com/pymaster13/needs_market.git
-cd needs_market
+git clone https://github.com/pymaster13/needs_market.git && cd needs_market
 ```
 
 Create and activate virtual environment:
 ```
-python3.7 -m venv venv
-source venv/bin/activate
+python3 -m venv venv && source venv/bin/activate
 ```
 
 Install libraries:
 ```
-python3.7 -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 Run local Django server:
 ```
-python3.7 manage.py runserver
+python3 manage.py runserver
 ```
 
 ## Functional
