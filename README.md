@@ -29,7 +29,7 @@ python3 manage.py runserver
 ## Functional
 
 The clients and admin sides are realized.
-* Client can register (fully and quickly (only by phone number) modes) and confirm registration, authenticate, reset_password, make order and pay it.
+* Client can register (fully and quickly (only by phone number) modes) and confirm registration, authenticate, reset password, make order and pay it.
 * Admin may view all categories, goods, orders, users and statistics on the above.
 
 ### Features
