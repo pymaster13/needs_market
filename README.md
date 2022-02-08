@@ -1,7 +1,7 @@
 # Needs Market
 
 This project is a backend of online food store (2020). 
-A team (4 people) project that was implemented on Django Rest Framework (2 people, including me) and React (2 people).
+A developers team (4 people) used Django Rest Framework (2 people, including me) on backend side and React (2 people) on frontend side.
 
 ## Getting Started
 
