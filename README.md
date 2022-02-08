@@ -8,7 +8,6 @@ Python version: 3.7.5
 
 Clone project:
 ```
-mkdir project && cd project
 git clone https://github.com/pymaster13/needs_market.git && cd needs_market
 ```
 
