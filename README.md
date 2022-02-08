@@ -1,7 +1,7 @@
 # Needs Market
 
-* This project is a backend of online food store (2020). 
-* Developers team (4 people) used Django Rest Framework (2 people, including me) on backend side and React (2 people) on frontend side.
+This project is a backend of online food store (2020). 
+Developers team (4 people) used Django Rest Framework (2 people, including me) on backend side and React (2 people) on frontend side.
 
 ## Getting Started
 Python version: 3.7.5
@@ -35,4 +35,9 @@ The clients and admin sides are realized.
 
 ### Features
 
-There are used: Django3, djangorestframework, twilio (for sending sms), celery and redis (for asynchronous sending sms), (yandex-checkout for payment). 
+Main libraries that are used : 
+* Django3,
+* djangorestframework,
+* twilio (for sending sms),
+* celery and redis (for asynchronous sending sms), 
+* yandex-checkout (for payment). 
