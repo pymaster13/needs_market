@@ -35,7 +35,7 @@ The clients and admin sides are realized.
 ### Features
 
 Main libraries that are used : 
-* Django3,
+* Django 3,
 * djangorestframework,
 * twilio (for sending sms),
 * celery and redis (for asynchronous sending sms), 
