@@ -1,7 +1,7 @@
 # Needs Market
 
-This project is a backend of online food store (2020). 
-A developers team (4 people) used Django Rest Framework (2 people, including me) on backend side and React (2 people) on frontend side.
+* This project is a backend of online food store (2020). 
+* Developers team (4 people) used Django Rest Framework (2 people, including me) on backend side and React (2 people) on frontend side.
 
 ## Getting Started
 Python version: 3.7.5
@@ -30,9 +30,9 @@ python3 manage.py runserver
 ## Functional
 
 The clients and admin sides are realized.
-Client can register (fully and quickly (only by phone number) modes) and confirm registration, authenticate, reset_password, make order.
-Admin may view all categories, goods, orders, users and statistics on the above.
+* Client can register (fully and quickly (only by phone number) modes) and confirm registration, authenticate, reset_password, make order and pay it.
+* Admin may view all categories, goods, orders, users and statistics on the above.
 
 ### Features
 
-There are used: Django3, djangorestframework, twilio (for sending sms), celery and redis (for asynchronous sending sms). 
+There are used: Django3, djangorestframework, twilio (for sending sms), celery and redis (for asynchronous sending sms), (yandex-checkout for payment). 
